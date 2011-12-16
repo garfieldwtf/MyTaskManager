@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/taskmanager/!svn/ver/667/branches/2.0/app/models
+END
+membership.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/taskmanager/!svn/ver/667/branches/2.0/app/models/membership.php
+END
+implementor.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/taskmanager/!svn/ver/667/branches/2.0/app/models/implementor.php
+END
+group.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/taskmanager/!svn/ver/651/branches/2.0/app/models/group.php
+END
+group2s_user.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/taskmanager/!svn/ver/651/branches/2.0/app/models/group2s_user.php
+END
+role.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/taskmanager/!svn/ver/651/branches/2.0/app/models/role.php
+END
+comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/taskmanager/!svn/ver/667/branches/2.0/app/models/comment.php
+END
+task.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/taskmanager/!svn/ver/667/branches/2.0/app/models/task.php
+END
+scheme.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/taskmanager/!svn/ver/651/branches/2.0/app/models/scheme.php
+END
+reminder.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/taskmanager/!svn/ver/651/branches/2.0/app/models/reminder.php
+END
+project.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/taskmanager/!svn/ver/651/branches/2.0/app/models/project.php
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/taskmanager/!svn/ver/651/branches/2.0/app/models/template.php
+END
+category.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/taskmanager/!svn/ver/651/branches/2.0/app/models/category.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/taskmanager/!svn/ver/667/branches/2.0/app/models/user.php
+END
+group2.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/taskmanager/!svn/ver/651/branches/2.0/app/models/group2.php
+END
+client.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/taskmanager/!svn/ver/651/branches/2.0/app/models/client.php
+END
+taskinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/taskmanager/!svn/ver/651/branches/2.0/app/models/taskinfo.php
+END
+title.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/taskmanager/!svn/ver/651/branches/2.0/app/models/title.php
+END
+grade.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/taskmanager/!svn/ver/651/branches/2.0/app/models/grade.php
+END
+status.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/taskmanager/!svn/ver/651/branches/2.0/app/models/status.php
+END
+notification.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/taskmanager/!svn/ver/651/branches/2.0/app/models/notification.php
+END
+meeting.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/taskmanager/!svn/ver/651/branches/2.0/app/models/meeting.php
+END
+attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/taskmanager/!svn/ver/651/branches/2.0/app/models/attachment.php
+END

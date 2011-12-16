@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/view/scaffolds
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/view/scaffolds/view.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/view/scaffolds/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/view/scaffolds/index.ctp
+END

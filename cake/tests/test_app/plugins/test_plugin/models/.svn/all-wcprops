@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/plugins/test_plugin/models
+END
+test_plugin_comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/plugins/test_plugin/models/test_plugin_comment.php
+END
+test_plugin_authors.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/plugins/test_plugin/models/test_plugin_authors.php
+END
+test_plugin_post.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/plugins/test_plugin/models/test_plugin_post.php
+END

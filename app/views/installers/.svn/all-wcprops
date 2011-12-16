@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/taskmanager/!svn/ver/676/branches/2.0/app/views/installers
+END
+dircheck.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/651/branches/2.0/app/views/installers/dircheck.ctp
+END
+syssettings.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/676/branches/2.0/app/views/installers/syssettings.ctp
+END
+language.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/676/branches/2.0/app/views/installers/language.ctp
+END
+database.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/676/branches/2.0/app/views/installers/database.ctp
+END
+install.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/taskmanager/!svn/ver/651/branches/2.0/app/views/installers/install.ctp
+END
+success.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/taskmanager/!svn/ver/651/branches/2.0/app/views/installers/success.ctp
+END

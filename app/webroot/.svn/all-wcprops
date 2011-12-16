@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/taskmanager/!svn/ver/676/branches/2.0/app/webroot
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/taskmanager/!svn/ver/651/branches/2.0/app/webroot/test.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/taskmanager/!svn/ver/651/branches/2.0/app/webroot/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/taskmanager/!svn/ver/651/branches/2.0/app/webroot/index.php
+END
+css.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/taskmanager/!svn/ver/651/branches/2.0/app/webroot/css.php
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/taskmanager/!svn/ver/651/branches/2.0/app/webroot/favicon.ico
+END

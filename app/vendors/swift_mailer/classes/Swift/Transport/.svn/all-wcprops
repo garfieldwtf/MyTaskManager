@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport
+END
+SendmailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/SendmailTransport.php
+END
+SimpleMailInvoker.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/SimpleMailInvoker.php
+END
+MailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/MailTransport.php
+END
+MailInvoker.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/MailInvoker.php
+END
+IoBuffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/IoBuffer.php
+END
+SmtpAgent.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/SmtpAgent.php
+END
+AbstractSmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/AbstractSmtpTransport.php
+END
+FailoverTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/FailoverTransport.php
+END
+EsmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/EsmtpTransport.php
+END
+StreamBuffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/StreamBuffer.php
+END
+EsmtpHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/EsmtpHandler.php
+END
+LoadBalancedTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport/LoadBalancedTransport.php
+END

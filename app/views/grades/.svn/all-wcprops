@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/taskmanager/!svn/ver/651/branches/2.0/app/views/grades
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/taskmanager/!svn/ver/651/branches/2.0/app/views/grades/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/taskmanager/!svn/ver/651/branches/2.0/app/views/grades/index.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/taskmanager/!svn/ver/651/branches/2.0/app/views/grades/add.ctp
+END

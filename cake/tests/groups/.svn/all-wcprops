@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups
+END
+acl.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/acl.group.php
+END
+no_database.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/no_database.group.php
+END
+model.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/model.group.php
+END
+xml.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/xml.group.php
+END
+helpers.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/helpers.group.php
+END
+console.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/console.group.php
+END
+cache.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/cache.group.php
+END
+database.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/database.group.php
+END
+lib.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/lib.group.php
+END
+no_cross_contamination.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/no_cross_contamination.group.php
+END
+view.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/view.group.php
+END
+configure.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/configure.group.php
+END
+controller.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/controller.group.php
+END
+components.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/components.group.php
+END
+test_suite.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/test_suite.group.php
+END
+socket.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/socket.group.php
+END
+routing_system.group.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/groups/routing_system.group.php
+END

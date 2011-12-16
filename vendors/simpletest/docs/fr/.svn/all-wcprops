@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr
+END
+browser_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/browser_documentation.html
+END
+docs.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/docs.css
+END
+expectation_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/expectation_documentation.html
+END
+server_stubs_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/server_stubs_documentation.html
+END
+partial_mocks_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/partial_mocks_documentation.html
+END
+._overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._overview.html
+END
+._unit_test_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._unit_test_documentation.html
+END
+._index.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._index.html
+END
+group_test_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/group_test_documentation.html
+END
+._authentication_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._authentication_documentation.html
+END
+._expectation_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._expectation_documentation.html
+END
+._docs.css
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._docs.css
+END
+._browser_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._browser_documentation.html
+END
+form_testing_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/form_testing_documentation.html
+END
+mock_objects_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/mock_objects_documentation.html
+END
+reporter_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/reporter_documentation.html
+END
+._server_stubs_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._server_stubs_documentation.html
+END
+web_tester_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/web_tester_documentation.html
+END
+._partial_mocks_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._partial_mocks_documentation.html
+END
+._group_test_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._group_test_documentation.html
+END
+._form_testing_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._form_testing_documentation.html
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/overview.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/index.html
+END
+unit_test_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/unit_test_documentation.html
+END
+authentication_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/authentication_documentation.html
+END
+._reporter_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._reporter_documentation.html
+END
+._mock_objects_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._mock_objects_documentation.html
+END
+._web_tester_documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/docs/fr/._web_tester_documentation.html
+END

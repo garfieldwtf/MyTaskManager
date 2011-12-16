@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/ByteStream
+END
+AbstractFilterableInputStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/ByteStream/AbstractFilterableInputStream.php
+END
+ArrayByteStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/ByteStream/ArrayByteStream.php
+END
+FileByteStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/ByteStream/FileByteStream.php
+END

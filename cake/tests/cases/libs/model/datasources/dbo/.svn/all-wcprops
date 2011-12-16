@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/datasources/dbo
+END
+dbo_adodb.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/datasources/dbo/dbo_adodb.test.php
+END
+dbo_mysqli.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/datasources/dbo/dbo_mysqli.test.php
+END
+dbo_mssql.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/datasources/dbo/dbo_mssql.test.php
+END
+dbo_sqlite.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/datasources/dbo/dbo_sqlite.test.php
+END
+dbo_mysql.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/datasources/dbo/dbo_mysql.test.php
+END
+dbo_oracle.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/datasources/dbo/dbo_oracle.test.php
+END
+dbo_postgres.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/datasources/dbo/dbo_postgres.test.php
+END

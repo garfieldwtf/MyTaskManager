@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/views/layouts
+END
+flash.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/views/layouts/flash.ctp
+END
+multi_cache.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/views/layouts/multi_cache.ctp
+END
+cache_layout.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/views/layouts/cache_layout.ctp
+END
+session_helper.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/views/layouts/session_helper.ctp
+END
+ajax.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/views/layouts/ajax.ctp
+END
+default.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/views/layouts/default.ctp
+END
+ajax2.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/views/layouts/ajax2.ctp
+END
+cache_empty_sections.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/test_app/views/layouts/cache_empty_sections.ctp
+END

@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test
+END
+all_tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/all_tests.php
+END
+._authentication_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._authentication_test.php
+END
+shell_tester_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/shell_tester_test.php
+END
+._exceptions_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._exceptions_test.php
+END
+._browser_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._browser_test.php
+END
+xml_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/xml_test.php
+END
+mock_objects_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/mock_objects_test.php
+END
+unit_tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/unit_tests.php
+END
+._simpletest_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._simpletest_test.php
+END
+._remote_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._remote_test.php
+END
+errors_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/errors_test.php
+END
+._live_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._live_test.php
+END
+._unit_tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._unit_tests.php
+END
+expectation_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/expectation_test.php
+END
+parse_error_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/parse_error_test.php
+END
+acceptance_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/acceptance_test.php
+END
+._tag_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._tag_test.php
+END
+._test_with_parse_error.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._test_with_parse_error.php
+END
+dumper_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/dumper_test.php
+END
+cookies_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/cookies_test.php
+END
+._http_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._http_test.php
+END
+._adapter_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._adapter_test.php
+END
+bad_test_suite.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/bad_test_suite.php
+END
+live_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/live_test.php
+END
+._interfaces_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._interfaces_test.php
+END
+._eclipse_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._eclipse_test.php
+END
+._reflection_php4_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._reflection_php4_test.php
+END
+url_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/url_test.php
+END
+._support
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._support
+END
+._socket_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._socket_test.php
+END
+._autorun_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._autorun_test.php
+END
+._bad_test_suite.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._bad_test_suite.php
+END
+frames_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/frames_test.php
+END
+test_with_parse_error.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/test_with_parse_error.php
+END
+http_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/http_test.php
+END
+._unit_tester_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._unit_tester_test.php
+END
+browser_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/browser_test.php
+END
+collector_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/collector_test.php
+END
+._errors_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._errors_test.php
+END
+._page_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._page_test.php
+END
+parser_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/parser_test.php
+END
+user_agent_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/user_agent_test.php
+END
+._encoding_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._encoding_test.php
+END
+._collector_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._collector_test.php
+END
+._acceptance_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._acceptance_test.php
+END
+._reflection_php5_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._reflection_php5_test.php
+END
+visual_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/visual_test.php
+END
+web_tester_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/web_tester_test.php
+END
+shell_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/shell_test.php
+END
+compatibility_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/compatibility_test.php
+END
+._dumper_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._dumper_test.php
+END
+tag_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/tag_test.php
+END
+page_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/page_test.php
+END
+._xml_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._xml_test.php
+END
+._detached_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._detached_test.php
+END
+authentication_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/authentication_test.php
+END
+adapter_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/adapter_test.php
+END
+._form_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._form_test.php
+END
+exceptions_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/exceptions_test.php
+END
+eclipse_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/eclipse_test.php
+END
+._shell_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._shell_test.php
+END
+reflection_php4_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/reflection_php4_test.php
+END
+encoding_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/encoding_test.php
+END
+._compatibility_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._compatibility_test.php
+END
+simpletest_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/simpletest_test.php
+END
+._frames_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._frames_test.php
+END
+remote_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/remote_test.php
+END
+autorun_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/autorun_test.php
+END
+._expectation_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._expectation_test.php
+END
+._parse_error_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._parse_error_test.php
+END
+detached_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/detached_test.php
+END
+._command_line_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._command_line_test.php
+END
+form_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/form_test.php
+END
+unit_tester_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/unit_tester_test.php
+END
+._all_tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._all_tests.php
+END
+._user_agent_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._user_agent_test.php
+END
+._cookies_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._cookies_test.php
+END
+._parser_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._parser_test.php
+END
+._shell_tester_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._shell_tester_test.php
+END
+._url_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._url_test.php
+END
+._mock_objects_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._mock_objects_test.php
+END
+._web_tester_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._web_tester_test.php
+END
+._visual_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/._visual_test.php
+END
+interfaces_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/interfaces_test.php
+END
+command_line_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/command_line_test.php
+END
+reflection_php5_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/reflection_php5_test.php
+END
+socket_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/test/socket_test.php
+END

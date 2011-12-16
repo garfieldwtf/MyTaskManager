@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users/view.ctp
+END
+forgotuser.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users/forgotuser.ctp
+END
+profile.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users/profile.ctp
+END
+browser.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users/browser.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users/edit.ctp
+END
+forcechangepassword.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users/forcechangepassword.ctp
+END
+forgotpass.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users/forgotpass.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users/index.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users/add.ctp
+END
+changepassword.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users/changepassword.ctp
+END
+login.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/taskmanager/!svn/ver/651/branches/2.0/app/views/users/login.ctp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/taskmanager/!svn/ver/660/branches/2.0/app/views/groups
+END
+mainpage.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/taskmanager/!svn/ver/660/branches/2.0/app/views/groups/mainpage.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/taskmanager/!svn/ver/651/branches/2.0/app/views/groups/edit.ctp
+END
+add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/taskmanager/!svn/ver/651/branches/2.0/app/views/groups/add.ctp
+END

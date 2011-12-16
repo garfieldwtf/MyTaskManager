@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/taskmanager/!svn/ver/682/branches/2.0
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/taskmanager/!svn/ver/651/branches/2.0/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/taskmanager/!svn/ver/651/branches/2.0/index.php
+END

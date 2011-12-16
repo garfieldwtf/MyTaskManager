@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/taskmanager/!svn/ver/666/branches/2.0/app/views/templates
+END
+guide.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/taskmanager/!svn/ver/651/branches/2.0/app/views/templates/guide.ctp
+END
+edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/taskmanager/!svn/ver/651/branches/2.0/app/views/templates/edit.ctp
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/taskmanager/!svn/ver/666/branches/2.0/app/views/templates/index.ctp
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/error.php
+END
+overloadable_php4.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/overloadable_php4.php
+END
+validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/validation.php
+END
+set.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/set.php
+END
+flay.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/flay.php
+END
+overloadable_php5.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/overloadable_php5.php
+END
+class_registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/class_registry.php
+END
+overloadable.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/overloadable.php
+END
+xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/xml.php
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/cache.php
+END
+cake_log.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/cake_log.php
+END
+object.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/object.php
+END
+string.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/string.php
+END
+security.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/security.php
+END
+l10n.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/l10n.php
+END
+folder.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/folder.php
+END
+multibyte.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/multibyte.php
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/i18n.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/file.php
+END
+router.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/router.php
+END
+configure.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/configure.php
+END
+session.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/session.php
+END
+debugger.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/debugger.php
+END
+magic_db.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/magic_db.php
+END
+inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/inflector.php
+END
+sanitize.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/sanitize.php
+END
+http_socket.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/http_socket.php
+END
+socket.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/socket.php
+END

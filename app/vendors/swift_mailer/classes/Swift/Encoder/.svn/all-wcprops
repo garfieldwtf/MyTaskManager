@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Encoder
+END
+QpEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Encoder/QpEncoder.php
+END
+Rfc2231Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Encoder/Rfc2231Encoder.php
+END
+Base64Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Encoder/Base64Encoder.php
+END

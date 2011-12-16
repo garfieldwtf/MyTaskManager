@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/taskmanager/!svn/ver/651/branches/2.0/app/config
+END
+acl.ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/taskmanager/!svn/ver/651/branches/2.0/app/config/acl.ini.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/taskmanager/!svn/ver/651/branches/2.0/app/config/bootstrap.php
+END
+inflections.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/taskmanager/!svn/ver/651/branches/2.0/app/config/inflections.php
+END
+routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/taskmanager/!svn/ver/651/branches/2.0/app/config/routes.php
+END
+core.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/taskmanager/!svn/ver/651/branches/2.0/app/config/core.php
+END

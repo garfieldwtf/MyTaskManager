@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures
+END
+hash_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/hash_fixture.php
+END
+taskdetail_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/taskdetail_fixture.php
+END
+taskcomponent_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/taskcomponent_fixture.php
+END
+permission_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/permission_fixture.php
+END
+attachment_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/attachment_fixture.php
+END
+membership_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/membership_fixture.php
+END
+implementor_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/implementor_fixture.php
+END
+group_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/group_fixture.php
+END
+role_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/role_fixture.php
+END
+protocol_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/protocol_fixture.php
+END
+task_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/task_fixture.php
+END
+empty
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/empty
+END
+comment_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/comment_fixture.php
+END
+tasktype_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/tasktype_fixture.php
+END
+user_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/user_fixture.php
+END
+title_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/title_fixture.php
+END
+log_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/log_fixture.php
+END
+userstatus_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/app/tests/fixtures/userstatus_fixture.php
+END

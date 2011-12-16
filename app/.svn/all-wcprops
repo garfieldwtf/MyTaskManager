@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/taskmanager/!svn/ver/682/branches/2.0/app
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/taskmanager/!svn/ver/666/branches/2.0/app/LICENSE.txt
+END
+app_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/taskmanager/!svn/ver/651/branches/2.0/app/app_model.php
+END
+app_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/taskmanager/!svn/ver/676/branches/2.0/app/app_controller.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/taskmanager/!svn/ver/651/branches/2.0/app/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/taskmanager/!svn/ver/651/branches/2.0/app/index.php
+END

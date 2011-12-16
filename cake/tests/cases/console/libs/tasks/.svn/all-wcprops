@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/console/libs/tasks
+END
+test.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/console/libs/tasks/test.test.php
+END
+model.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/console/libs/tasks/model.test.php
+END
+extract.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/console/libs/tasks/extract.test.php
+END

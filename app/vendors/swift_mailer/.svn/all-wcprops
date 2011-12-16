@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer
+END
+mime_types.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/mime_types.php
+END
+swift_required.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/swift_required.php
+END
+swift_init.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/swift_init.php
+END
+preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/preferences.php
+END
+swift_required_pear.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/swift_required_pear.php
+END

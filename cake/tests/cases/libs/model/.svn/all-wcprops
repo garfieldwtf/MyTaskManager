@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model
+END
+model_read.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/model_read.test.php
+END
+behavior.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/behavior.test.php
+END
+model.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/model.test.php
+END
+schema.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/schema.test.php
+END
+model_delete.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/model_delete.test.php
+END
+model_integration.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/model_integration.test.php
+END
+db_acl.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/db_acl.test.php
+END
+models.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/models.php
+END
+connection_manager.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/connection_manager.test.php
+END
+model_validation.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/model_validation.test.php
+END
+model_write.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/model_write.test.php
+END

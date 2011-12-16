@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Mailer
+END
+ArrayRecipientIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Mailer/ArrayRecipientIterator.php
+END
+RecipientIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Mailer/RecipientIterator.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller
+END
+controller_merge_vars.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/controller_merge_vars.test.php
+END
+scaffold.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/scaffold.test.php
+END
+component.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/component.test.php
+END
+pages_controller.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/pages_controller.test.php
+END
+controller.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/controller.test.php
+END

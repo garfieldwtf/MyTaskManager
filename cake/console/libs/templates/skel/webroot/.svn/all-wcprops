@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/webroot
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/webroot/test.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/webroot/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/webroot/index.php
+END
+css.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/webroot/css.php
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/webroot/favicon.ico
+END

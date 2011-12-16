@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Plugins/Loggers
+END
+ArrayLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Plugins/Loggers/ArrayLogger.php
+END
+EchoLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Plugins/Loggers/EchoLogger.php
+END

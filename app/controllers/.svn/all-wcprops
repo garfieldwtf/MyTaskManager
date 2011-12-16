@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/taskmanager/!svn/ver/682/branches/2.0/app/controllers
+END
+schemes_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/schemes_controller.php
+END
+reminders_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/reminders_controller.php
+END
+projects_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/projects_controller.php
+END
+templates_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/676/branches/2.0/app/controllers/templates_controller.php
+END
+group2s_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/group2s_controller.php
+END
+clients_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/clients_controller.php
+END
+users_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/679/branches/2.0/app/controllers/users_controller.php
+END
+titles_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/titles_controller.php
+END
+grades_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/grades_controller.php
+END
+systems_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/682/branches/2.0/app/controllers/systems_controller.php
+END
+notifications_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/notifications_controller.php
+END
+meetings_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/meetings_controller.php
+END
+attachments_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/attachments_controller.php
+END
+statuses_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/667/branches/2.0/app/controllers/statuses_controller.php
+END
+implementors_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/implementors_controller.php
+END
+memberships_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/682/branches/2.0/app/controllers/memberships_controller.php
+END
+groups_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/667/branches/2.0/app/controllers/groups_controller.php
+END
+installers_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/676/branches/2.0/app/controllers/installers_controller.php
+END
+group2s_users_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/group2s_users_controller.php
+END
+roles_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/roles_controller.php
+END
+comments_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/667/branches/2.0/app/controllers/comments_controller.php
+END
+categories_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/app/controllers/categories_controller.php
+END
+tasks_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/670/branches/2.0/app/controllers/tasks_controller.php
+END

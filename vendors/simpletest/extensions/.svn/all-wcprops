@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/extensions
+END
+testdox.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/extensions/testdox.php
+END
+._pear_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/extensions/._pear_test_case.php
+END
+._phpunit_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/extensions/._phpunit_test_case.php
+END
+._testdox
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/extensions/._testdox
+END
+pear_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/extensions/pear_test_case.php
+END
+phpunit_test_case.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/extensions/phpunit_test_case.php
+END
+._testdox.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/vendors/simpletest/extensions/._testdox.php
+END

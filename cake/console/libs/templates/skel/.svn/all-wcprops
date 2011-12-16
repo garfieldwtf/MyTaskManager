@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel
+END
+app_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/app_helper.php
+END
+app_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/app_model.php
+END
+app_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/app_controller.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/index.php
+END

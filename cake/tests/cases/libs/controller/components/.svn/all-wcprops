@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/components
+END
+acl.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/components/acl.test.php
+END
+auth.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/components/auth.test.php
+END
+session.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/components/session.test.php
+END
+request_handler.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/components/request_handler.test.php
+END
+email.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/components/email.test.php
+END
+security.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/components/security.test.php
+END
+cookie.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/controller/components/cookie.test.php
+END

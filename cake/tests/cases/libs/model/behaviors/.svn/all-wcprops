@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/behaviors
+END
+translate.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/behaviors/translate.test.php
+END
+acl.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/behaviors/acl.test.php
+END
+containable.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/behaviors/containable.test.php
+END
+tree.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/taskmanager/!svn/ver/651/branches/2.0/cake/tests/cases/libs/model/behaviors/tree.test.php
+END

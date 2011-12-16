@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/views/layouts
+END
+flash.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/views/layouts/flash.ctp
+END
+ajax.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/views/layouts/ajax.ctp
+END
+default.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/cake/console/libs/templates/skel/views/layouts/default.ctp
+END

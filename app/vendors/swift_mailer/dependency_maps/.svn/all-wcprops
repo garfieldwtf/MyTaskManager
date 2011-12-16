@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/dependency_maps
+END
+cache_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/dependency_maps/cache_deps.php
+END
+mime_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/dependency_maps/mime_deps.php
+END
+transport_deps.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/dependency_maps/transport_deps.php
+END

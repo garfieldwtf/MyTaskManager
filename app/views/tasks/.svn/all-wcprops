@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/taskmanager/!svn/ver/667/branches/2.0/app/views/tasks
+END
+copy.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/taskmanager/!svn/ver/651/branches/2.0/app/views/tasks/copy.ctp
+END
+view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/taskmanager/!svn/ver/667/branches/2.0/app/views/tasks/view.ctp
+END
+basic.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/taskmanager/!svn/ver/651/branches/2.0/app/views/tasks/basic.ctp
+END
+getmultidata.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/taskmanager/!svn/ver/651/branches/2.0/app/views/tasks/getmultidata.ctp
+END
+keyword.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/taskmanager/!svn/ver/651/branches/2.0/app/views/tasks/keyword.ctp
+END
+imp.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/taskmanager/!svn/ver/666/branches/2.0/app/views/tasks/imp.ctp
+END
+sorting.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/taskmanager/!svn/ver/651/branches/2.0/app/views/tasks/sorting.ctp
+END
+childtask.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/taskmanager/!svn/ver/651/branches/2.0/app/views/tasks/childtask.ctp
+END
+additional.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/taskmanager/!svn/ver/666/branches/2.0/app/views/tasks/additional.ctp
+END
+calendar.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/taskmanager/!svn/ver/651/branches/2.0/app/views/tasks/calendar.ctp
+END

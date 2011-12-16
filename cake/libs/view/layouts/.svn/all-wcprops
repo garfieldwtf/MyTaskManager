@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/view/layouts
+END
+flash.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/view/layouts/flash.ctp
+END
+ajax.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/view/layouts/ajax.ctp
+END
+default.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/taskmanager/!svn/ver/651/branches/2.0/cake/libs/view/layouts/default.ctp
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements
+END
+unlock.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/unlock.ctp
+END
+topcontent.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/topcontent.ctp
+END
+globalsetting.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/globalsetting.ctp
+END
+endcontent.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/endcontent.ctp
+END
+Userdetail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/Userdetail.ctp
+END
+Group2detail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/Group2detail.ctp
+END
+tinymce.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/tinymce.ctp
+END
+calendar.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/calendar.ctp
+END
+adminmenu.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/adminmenu.ctp
+END
+maincontent.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/maincontent.ctp
+END
+install_steps.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/install_steps.ctp
+END
+taskdetail.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/taskdetail.ctp
+END
+ical_link.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/ical_link.ctp
+END
+taskbar.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/taskbar.ctp
+END
+menubar.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/taskmanager/!svn/ver/651/branches/2.0/app/views/elements/menubar.ctp
+END

@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift
+END
+EmbeddedFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/EmbeddedFile.php
+END
+Transport.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Transport.php
+END
+DependencyException.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/DependencyException.php
+END
+ReplacementFilterFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/ReplacementFilterFactory.php
+END
+OutputByteStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/OutputByteStream.php
+END
+SmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/SmtpTransport.php
+END
+Preferences.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Preferences.php
+END
+LoadBalancedTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/LoadBalancedTransport.php
+END
+CharacterReaderFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/CharacterReaderFactory.php
+END
+TransportException.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/TransportException.php
+END
+KeyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/KeyCache.php
+END
+MimePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/MimePart.php
+END
+CharacterReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/CharacterReader.php
+END
+DependencyContainer.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/DependencyContainer.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Image.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Message.php
+END
+FailoverTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/FailoverTransport.php
+END
+Encoding.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Encoding.php
+END
+Attachment.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Attachment.php
+END
+FileStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/FileStream.php
+END
+MailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/MailTransport.php
+END
+InputByteStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/InputByteStream.php
+END
+StreamFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/StreamFilter.php
+END
+CharacterStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/CharacterStream.php
+END
+SendmailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/SendmailTransport.php
+END
+Filterable.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Filterable.php
+END
+Mailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Mailer.php
+END
+SwiftException.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/SwiftException.php
+END
+Encoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/Encoder.php
+END
+RfcComplianceException.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/RfcComplianceException.php
+END
+IoException.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/taskmanager/!svn/ver/651/branches/2.0/app/vendors/swift_mailer/classes/Swift/IoException.php
+END
